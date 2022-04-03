@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445459940147",
+    "project_id": "prashanth-clinic",
+    "storage_bucket": "prashanth-clinic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445459940147:android:631123eca0d09107cdb446",
+        "android_client_info": {
+          "package_name": "com.example.PrashanthClinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445459940147-g4rjpa57on2s7ue6naotmapkcpjavs2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiXpCIWGBW4aA6FfAI_R0uPA1PvPjJRi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445459940147-g4rjpa57on2s7ue6naotmapkcpjavs2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
